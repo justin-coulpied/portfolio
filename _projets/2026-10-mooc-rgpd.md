@@ -43,6 +43,6 @@ Les quatre attestations obtenues permettent de justifier la réalisation de cett
 
 Cette formation m'a permis de mieux comprendre le RGPD et l'importance de protéger les données personnelles.
 
-J'ai découvert les responsabilités des différents acteurs, les principes de protection des données et le rôle du DPO.
+J'ai découvert les responsabilités des différents acteurs, les principes de protection des données et le rôle du DPO (Règlement Général sur la Protection des Données).
 
 Ces connaissances me seront utiles dans mon futur métier d'administrateur systèmes et réseaux, notamment pour la sécurité et la confidentialité des informations.

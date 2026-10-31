@@ -31,7 +31,11 @@ Durée totale : 5 heures.
 
 ## Productions et preuves
 
-![Ce que montre la capture]({{ "/images/exemple.png" | relative_url }})
+<img width="1038" height="733" alt="CERTFIFICAT MODULE1-RGPD" src="https://github.com/user-attachments/assets/c48e2df9-fafd-4d4f-99d1-b65f606dd4e1" />
+<img width="994" height="674" alt="CERTIFICAT MODULE2-RGPD" src="https://github.com/user-attachments/assets/362265e0-e073-4338-afee-91f7fe498ad9" />
+<img width="916" height="634" alt="CERTIFICAT MODULE3-RGPD" src="https://github.com/user-attachments/assets/f6dc2009-f809-495f-a850-d55b0cb6cc4c" />
+<img width="1114" height="665" alt="CERTIFICAT MODULE4-RGPD" src="https://github.com/user-attachments/assets/d3be5738-7c0a-4f4c-a1f0-62fad49cf7fd" />
+
 
 Les quatre attestations obtenues permettent de justifier la réalisation de cette formation.
 

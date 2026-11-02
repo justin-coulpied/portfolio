@@ -7,6 +7,7 @@ resume: "Formation sur la protection des données personnelles et validation des
 competences: [c6]
 ---
 
+
 ## Contexte
 
 Dans le cadre de ma première année de BTS SIO option SISR, j'ai suivi une formation en ligne sur le RGPD (Règlement Général sur la Protection des Données), proposée par la CNIL.

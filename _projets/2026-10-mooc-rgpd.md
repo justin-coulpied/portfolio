@@ -1,3 +1,4 @@
+
 ---
 title: "Formation MOOC RGPD de la CNIL"
 date: 2026-10-29
@@ -31,13 +32,34 @@ Durée totale : 10 heures.
 
 ## Productions et preuves
 
-<img width="1038" height="733" alt="CERTFIFICAT MODULE1-RGPD" src="https://github.com/user-attachments/assets/c48e2df9-fafd-4d4f-99d1-b65f606dd4e1" />
-<img width="994" height="674" alt="CERTIFICAT MODULE2-RGPD" src="https://github.com/user-attachments/assets/362265e0-e073-4338-afee-91f7fe498ad9" />
-<img width="916" height="634" alt="CERTIFICAT MODULE3-RGPD" src="https://github.com/user-attachments/assets/f6dc2009-f809-495f-a850-d55b0cb6cc4c" />
-<img width="1114" height="665" alt="CERTIFICAT MODULE4-RGPD" src="https://github.com/user-attachments/assets/d3be5738-7c0a-4f4c-a1f0-62fad49cf7fd" />
-<img width="1098" height="657" alt="CERTIFICAT MODULE5-RGPD" src="https://github.com/user-attachments/assets/51b8d2f6-4203-4303-9b0e-bfcac3ab3ea6" />
-<img width="713" height="494" alt="ATESTATION DE SUIVI " src="https://github.com/user-attachments/assets/98fc7c88-0e2a-437a-add4-d58b4e62b230" />
+<table style="width:100%; table-layout:fixed;">
+<tr>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="CERTFIFICAT MODULE1-RGPD" src="https://github.com/user-attachments/assets/c48e2df9-fafd-4d4f-99d1-b65f606dd4e1" />
+</td>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="CERTIFICAT MODULE2-RGPD" src="https://github.com/user-attachments/assets/362265e0-e073-4338-afee-91f7fe498ad9" />
+</td>
+</tr>
 
+<tr>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="CERTIFICAT MODULE3-RGPD" src="https://github.com/user-attachments/assets/f6dc2009-f809-495f-a850-d55b0cb6cc4c" />
+</td>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="CERTIFICAT MODULE4-RGPD" src="https://github.com/user-attachments/assets/d3be5738-7c0a-4f4c-a1f0-62fad49cf7fd" />
+</td>
+</tr>
+
+<tr>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="CERTIFICAT MODULE5-RGPD" src="https://github.com/user-attachments/assets/51b8d2f6-4203-4303-9b0e-bfcac3ab3ea6" />
+</td>
+<td style="width:50%; vertical-align:top;">
+<img width="100%" height="auto" alt="ATESTATION DE SUIVI " src="https://github.com/user-attachments/assets/98fc7c88-0e2a-437a-add4-d58b4e62b230" />
+</td>
+</tr>
+</table>
 
 Les quatre attestations obtenues permettent de justifier la réalisation de cette formation.
 
@@ -47,4 +69,4 @@ Cette formation m'a permis de mieux comprendre le RGPD et l'importance de proté
 
 J'ai découvert les responsabilités des différents acteurs, les principes de protection des données et le rôle du DPO (Règlement Général sur la Protection des Données).
 
-Ces connaissances me seront utiles dans mon futur métier d'administrateur systèmes et réseaux, notamment pour la sécurité et la confidentialité des informations
+Ces connaissances me seront utiles dans mon futur métier d'administrateur systèmes et réseaux, notamment pour la sécurité et la confidentialité des informations.

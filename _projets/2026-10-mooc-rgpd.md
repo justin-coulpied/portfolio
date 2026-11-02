@@ -19,7 +19,7 @@ J'ai réalisé cette formation individuellement, à l'aide d'un ordinateur, d'un
 J'ai utilisé la plateforme gratuite de formation de la CNIL pour accéder aux 4 premier modules et pour effectuer les évaluations.
 
 Je l'ai effectué du 26 au 29 octobre 2026.
-Durée totale : 5 heures.
+Durée totale : 10 heures.
 
 ## Description de l'activité
 
@@ -35,6 +35,8 @@ Durée totale : 5 heures.
 <img width="994" height="674" alt="CERTIFICAT MODULE2-RGPD" src="https://github.com/user-attachments/assets/362265e0-e073-4338-afee-91f7fe498ad9" />
 <img width="916" height="634" alt="CERTIFICAT MODULE3-RGPD" src="https://github.com/user-attachments/assets/f6dc2009-f809-495f-a850-d55b0cb6cc4c" />
 <img width="1114" height="665" alt="CERTIFICAT MODULE4-RGPD" src="https://github.com/user-attachments/assets/d3be5738-7c0a-4f4c-a1f0-62fad49cf7fd" />
+<img width="1098" height="657" alt="CERTIFICAT MODULE5-RGPD" src="https://github.com/user-attachments/assets/51b8d2f6-4203-4303-9b0e-bfcac3ab3ea6" />
+<img width="713" height="494" alt="ATESTATION DE SUIVI " src="https://github.com/user-attachments/assets/98fc7c88-0e2a-437a-add4-d58b4e62b230" />
 
 
 Les quatre attestations obtenues permettent de justifier la réalisation de cette formation.
